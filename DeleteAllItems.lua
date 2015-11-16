@@ -1,0 +1,1 @@
+_d=DeleteCursorItem for i=0,20 do PickupInventoryItem(i)_d() end for i=-4,11 do for j=1,100 do PickupContainerItem(i,j)_d() end end
